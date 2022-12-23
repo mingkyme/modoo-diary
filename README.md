@@ -25,7 +25,7 @@ Application
 
 - Telegram Bot
 - Discord Bot
-- Kakao 플러스 친구 (심사 중.. reject 시, 미 구현)
+- Kakao 플러스 친구 (심사 )
 - Web Site
 - Applcation
 
