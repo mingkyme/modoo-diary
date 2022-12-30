@@ -28,7 +28,7 @@ Application
 - Kakao 플러스 친구 (심사 완료)
   - http://pf.kakao.com/_HSxaixj/chat
 - Web Site
-- Applcation
+- Application
 
 
 
