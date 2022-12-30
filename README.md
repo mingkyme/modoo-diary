@@ -15,11 +15,11 @@ API Server
 
 DB
 
-- postgresql
+- mysql
 
 인증 시스템
 
-- Firebase
+- SMTP를 이용한 이메일 인증 (Google 계정 이용)
 
 Application
 
